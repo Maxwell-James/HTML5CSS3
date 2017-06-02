@@ -1,0 +1,18 @@
+h1 {
+	color:red;
+	background-color:white;
+	font-size:36px;
+}
+p {
+	color:rgb(255,255,255);
+	color:rgba(255,12,51,0.6);
+	font-size:20px;
+}
+h2 {
+	color:#FFF;
+	background-color:rgba(168,168,168,0.87);
+}
+* {
+	color:hsla(355,155%,166%,0.87);
+	background-color:rgba(1,1,1,0.87);
+}
