@@ -2,17 +2,31 @@ h1 {
 	color:red;
 	background-color:white;
 	font-size:36px;
+	font-family: arial;
 }
 p {
 	color:rgb(255,255,255);
 	color:rgba(255,12,51,0.6);
 	font-size:20px;
+	line-height:5em;
 }
 h2 {
-	color:#FFF;
+	color:red;
+	background-color:white;
+	font-size:36px;
+	font-family: arial;
+	/*
+	color:#F23131;
+	font-family: arial;
 	background-color:rgba(168,168,168,0.87);
+	*/
+}
+a {
+	line-height:2em;
+	word-spacing:1.5px;
 }
 * {
-	color:hsla(355,155%,166%,0.87);
+	color:#FFFFFF;
 	background-color:rgba(1,1,1,0.87);
+	font-style: "";
 }
